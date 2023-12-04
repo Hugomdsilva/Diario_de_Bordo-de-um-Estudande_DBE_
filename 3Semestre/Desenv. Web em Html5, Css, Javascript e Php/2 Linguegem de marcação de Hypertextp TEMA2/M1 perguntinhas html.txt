@@ -1,8 +1,8 @@
 porque o html tem separações como cabeça corpo ?
-R:serve como separação a cabeça contendo as informações descritivas do site o corpo contendo o conteudo sem si
+ R:serve como separação a cabeça contendo as informações descritivas do site o corpo contendo o conteudo em si
 
 principais tags do html e porque sao as principais?
-	as principais sao HTML head e body elas sao as principais pois sao a estrutura obrigatoria em um arquivo html
+	R:as principais sao DOCTYPE! HTML head e body elas sao as principais pois sao a estrutura obrigatoria em um arquivo html
 nela separam-se partes do codigo como se fosse a anatomia do codigo onde entendendo essa anatomia é possivel se 
 navegar com mais facilidade em um codigo html
 
