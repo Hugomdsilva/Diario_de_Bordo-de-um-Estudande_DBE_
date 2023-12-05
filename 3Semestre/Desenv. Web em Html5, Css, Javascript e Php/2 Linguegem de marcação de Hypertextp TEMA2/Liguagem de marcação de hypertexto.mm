@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Liguagem de marcação de hypertexto" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1701700079368" STYLE="oval">
 <font SIZE="18"/>
-<hook NAME="MapStyle">
+<hook NAME="MapStyle" zoom="0.455">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" associatedTemplateLocation="template:/standard-1.6.mm" fit_to_viewport="false"/>
 
 <map_styles>
@@ -68,10 +68,10 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="1" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="2" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="Modulo 01 Estrutura de uma pagina web" POSITION="bottom_or_right" ID="ID_51857625" CREATED="1701690498283" MODIFIED="1701700079367" VSHIFT_QUANTITY="-3.75 pt">
 <edge COLOR="#ff0000"/>
-<node TEXT="conceitos chave" FOLDED="true" ID="ID_1953471244" CREATED="1701690512890" MODIFIED="1701690518548">
+<node TEXT="conceitos chave" ID="ID_1953471244" CREATED="1701690512890" MODIFIED="1701690518548">
 <node TEXT="existem Marcações simples&#xa;e Marcações complexas" ID="ID_1296807217" CREATED="1701693748984" MODIFIED="1701693767050"/>
 <node TEXT="" ID="ID_1642462987" CREATED="1701696601803" MODIFIED="1701696601803">
 <node TEXT="DOCUMENT TYPES" POSITION="bottom_or_right" ID="ID_1985106963" CREATED="1701696550787" MODIFIED="1701696566085">
@@ -135,7 +135,7 @@
 </node>
 </node>
 </node>
-<node TEXT="ELEMENTOS BASICO" FOLDED="true" ID="ID_891447442" CREATED="1701697440409" MODIFIED="1701697446706">
+<node TEXT="ELEMENTOS BASICO" ID="ID_891447442" CREATED="1701697440409" MODIFIED="1701697446706">
 <node TEXT="CABEÇALHO" ID="ID_1398952143" CREATED="1701697449504" MODIFIED="1701697455435"/>
 <node TEXT="BARRA DE NAVEGAÇÃO" ID="ID_691645463" CREATED="1701697455864" MODIFIED="1701697463258"/>
 <node TEXT="CONTEUDO" ID="ID_99769228" CREATED="1701697463488" MODIFIED="1701697468467"/>
@@ -143,7 +143,7 @@
 <node TEXT="RODAPÉ" ID="ID_1397272225" CREATED="1701697474937" MODIFIED="1701697481450"/>
 </node>
 </node>
-<node TEXT="eventos relevantes nomes e datas significativas" FOLDED="true" ID="ID_1021887383" CREATED="1701690535171" MODIFIED="1701690549917">
+<node TEXT="eventos relevantes nomes e datas significativas" ID="ID_1021887383" CREATED="1701690535171" MODIFIED="1701690549917">
 <node TEXT="ISO" ID="ID_9287304" CREATED="1701691028078" MODIFIED="1701691034975"/>
 <node TEXT="IETF (Internet Engineering Task Force)" ID="ID_1646491110" CREATED="1701691037910" MODIFIED="1701691057376">
 <node TEXT="publicou a especificação do HTML em 1993 até 1995" ID="ID_1424520628" CREATED="1701691068349" MODIFIED="1701691120632"/>
@@ -153,6 +153,34 @@
 </node>
 <node TEXT="Em 1991 o Tim Berners-Lee Criava o HTML" ID="ID_1392087497" CREATED="1701691382576" MODIFIED="1701691417626"/>
 </node>
+</node>
+<node TEXT="Modulo 02 tags HTML basicas" POSITION="top_or_left" ID="ID_33074032" CREATED="1701781955037" MODIFIED="1701781979494">
+<edge COLOR="#0000ff"/>
+<node TEXT="Conceitos chave" ID="ID_586202006" CREATED="1701783502270" MODIFIED="1701783506488">
+<node TEXT="Os atributos" FOLDED="true" ID="ID_401795386" CREATED="1701786505954" MODIFIED="1701786518093">
+<node TEXT="servem para adicionar caracteristicas a um elemento.&#xa;É composto por um nome e por um valor&#xa; (no site do W3C contem a lista completa de atributos  e suas combinações)" ID="ID_1381258192" CREATED="1701786522515" MODIFIED="1701786816310"/>
+<node TEXT="ex: &lt;img src=&quot;imagem.jpg&quot; alt=&quot;minha imagem&quot; /&gt;" ID="ID_831007501" CREATED="1701786577947" MODIFIED="1701786613485">
+<node TEXT="nesse exemplo temos src e alt que sao atributos&#xa;e &quot;imagem.jpg&quot; e &quot;minha imagem&quot; que sao seus valores" ID="ID_175699188" CREATED="1701786614698" MODIFIED="1701786665861"/>
+<node TEXT="O atributo &quot;src&quot; define o endereço e o nome da imagem" ID="ID_346805486" CREATED="1701786683795" MODIFIED="1701786721341"/>
+<node TEXT="O atributo &quot;alt&quot; define um texto alternativo a ser exibido no navegador caso a imagem nao carregue" ID="ID_1342839183" CREATED="1701786731236" MODIFIED="1701786758541"/>
+</node>
+</node>
+</node>
+<node TEXT="Informações inportantes" ID="ID_589141806" CREATED="1701783506919" MODIFIED="1701783512121">
+<node TEXT="Tags e suas funçoes" ID="ID_1526900403" CREATED="1701791022832" MODIFIED="1701791029323">
+<node TEXT="&lt;article&gt;" ID="ID_655800488" CREATED="1701791034104" MODIFIED="1701791046418"/>
+<node TEXT="&lt;section&gt;" ID="ID_1407905986" CREATED="1701791056432" MODIFIED="1701791058402"/>
+<node TEXT="&lt;h1&gt;...&lt;h6&gt;" ID="ID_1929090590" CREATED="1701791065232" MODIFIED="1701791074250"/>
+<node TEXT="&lt;p&gt;" ID="ID_661307173" CREATED="1701791074480" MODIFIED="1701791082778"/>
+<node TEXT="&lt;pre&gt;" ID="ID_1183983640" CREATED="1701791082976" MODIFIED="1701791083754"/>
+<node TEXT="&lt;div&gt;" ID="ID_587877735" CREATED="1701791084024" MODIFIED="1701791088170"/>
+<node TEXT="&lt;span&gt;" ID="ID_1058502286" CREATED="1701791088449" MODIFIED="1701791114371"/>
+<node TEXT="&lt;a&gt;" ID="ID_539916478" CREATED="1701791114657" MODIFIED="1701791129074"/>
+<node TEXT="&lt;br /&gt;" ID="ID_1207193878" CREATED="1701791129361" MODIFIED="1701791134995"/>
+<node TEXT="&lt;hr&gt;" ID="ID_532630429" CREATED="1701791135441" MODIFIED="1701791139714"/>
+</node>
+</node>
+<node TEXT="eventos relevantes nomes e datas significativas" ID="ID_90081892" CREATED="1701783513006" MODIFIED="1701783522168"/>
 </node>
 </node>
 </map>
