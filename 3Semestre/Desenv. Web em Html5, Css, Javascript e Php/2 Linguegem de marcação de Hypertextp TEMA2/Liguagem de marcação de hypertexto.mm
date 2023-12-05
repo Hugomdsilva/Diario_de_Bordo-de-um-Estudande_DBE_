@@ -3,7 +3,7 @@
 <node TEXT="Liguagem de marcação de hypertexto" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1701700079368" STYLE="oval">
 <font SIZE="18"/>
 <hook NAME="MapStyle">
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false" associatedTemplateLocation="template:/standard-1.6.mm"/>
+    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" associatedTemplateLocation="template:/standard-1.6.mm" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -71,7 +71,7 @@
 <hook NAME="AutomaticEdgeColor" COUNTER="1" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="Modulo 01 Estrutura de uma pagina web" POSITION="bottom_or_right" ID="ID_51857625" CREATED="1701690498283" MODIFIED="1701700079367" VSHIFT_QUANTITY="-3.75 pt">
 <edge COLOR="#ff0000"/>
-<node TEXT="conceitos chave" ID="ID_1953471244" CREATED="1701690512890" MODIFIED="1701690518548">
+<node TEXT="conceitos chave" FOLDED="true" ID="ID_1953471244" CREATED="1701690512890" MODIFIED="1701690518548">
 <node TEXT="existem Marcações simples&#xa;e Marcações complexas" ID="ID_1296807217" CREATED="1701693748984" MODIFIED="1701693767050"/>
 <node TEXT="" ID="ID_1642462987" CREATED="1701696601803" MODIFIED="1701696601803">
 <node TEXT="DOCUMENT TYPES" POSITION="bottom_or_right" ID="ID_1985106963" CREATED="1701696550787" MODIFIED="1701696566085">
@@ -104,7 +104,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -124,7 +123,7 @@
 <node TEXT="tambem possibilita inclusao de favicons" ID="ID_461998259" CREATED="1701696955933" MODIFIED="1701696975167"/>
 </node>
 <node TEXT="&lt;style&gt;" ID="ID_1874792385" CREATED="1701696709571" MODIFIED="1701696715149">
-<node TEXT="é responsavel pelo vinculo de folahs de estilo ao documento - quando elas sao declaradas diretamento no documento" ID="ID_1973269248" CREATED="1701697007446" MODIFIED="1701697063559"/>
+<node TEXT="é responsavel pelo vinculo de folhas de estilo ao documento - quando elas sao declaradas diretamento no documento" ID="ID_1973269248" CREATED="1701697007446" MODIFIED="1701781927240"/>
 </node>
 </node>
 </node>
@@ -144,7 +143,7 @@
 <node TEXT="RODAPÉ" ID="ID_1397272225" CREATED="1701697474937" MODIFIED="1701697481450"/>
 </node>
 </node>
-<node TEXT="eventos relevantes nomes e datas significativas" ID="ID_1021887383" CREATED="1701690535171" MODIFIED="1701690549917">
+<node TEXT="eventos relevantes nomes e datas significativas" FOLDED="true" ID="ID_1021887383" CREATED="1701690535171" MODIFIED="1701690549917">
 <node TEXT="ISO" ID="ID_9287304" CREATED="1701691028078" MODIFIED="1701691034975"/>
 <node TEXT="IETF (Internet Engineering Task Force)" ID="ID_1646491110" CREATED="1701691037910" MODIFIED="1701691057376">
 <node TEXT="publicou a especificação do HTML em 1993 até 1995" ID="ID_1424520628" CREATED="1701691068349" MODIFIED="1701691120632"/>

@@ -1,0 +1,44 @@
+O css esta dentro do html?
+     R:Na verdade o css deve ser um arquivo .css hospedado no servidor porém no caso da utilização
+      da tag style o css fica dentro do código html
+
+o css é uma linguagem de programação ou de marcação?
+     R:na verdade o css é uma linguagem de estilo usada para defininir a apresentação e o desing do conteúdo 
+
+qual a diferença da semantica de um codigo html para sua apresentação?
+     R: a semântica é os elementos que fazem o código html
+     A apresentação é a parte estética 
+
+para que serve o spring?
+     R: uma das funcionalidades do spring e inversão do controle(IoC)
+     O conceito de IoC permite a criação e gerenciamento de objetos em um contêiner IoC 
+     em vês de os objetos controlarem sua própria criação 
+
+quais melhorias trouxe o html comparado ao sgml do cern?
+     R:o html é diferente nos requisitos que é mais simples, estrutura é específica para web, tag e atributos 
+     específicos para marcação de documentos web, compatibilidade com navegadores, manutenção e atualizações constantes 
+
+quais criaçoes do teen burn lee?
+     
+
+quem é cern?
+
+oque são hyperdocumentos e hipermidia e poruqe são chamados assim?
+
+porque as Atualizações do html sao chamadas de recomendação?
+
+a tag raiz pode ser chamada de que maneira pai?
+
+como que era o primeiro navegador o mosaic?
+
+quais as diferenças de marcaçoes simples e marcações complexas?
+
+oque é a especificação em um HTML?
+
+porque o HTML 5 nao se baseia em um SGML?
+
+na tag meta quais  sao as descriçoes possiveis?
+
+oque sao favicons?
+
+oque sao folhas de estilo externas?

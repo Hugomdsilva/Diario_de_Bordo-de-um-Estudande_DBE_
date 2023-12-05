@@ -1,0 +1,34 @@
+porque tags ficam entre <>?
+    R :o sinal de maior e de menor <>  funcionam como indicação de uma tag similar as "" que indicam um texto em varias 
+    linguens de programação o <> indica as marcaçoes em um codigo HTML
+
+oque sao as funções estruturais, textuais e semanticas das tags?
+    R : tags extruturais sao obrigatorias a uma pagina sao elas as textuais e as semanticas
+    Tags Textuais :responsaveis por Organizar O Conteudo Da Pagina ou seja textos midias e links algums exemplos
+    sao <p>, <h1> ... <h6>, <img> e <a>.
+    Tags Semanticas : responsaveis por Organizar A Estrutura De Conteudo De Uma Pagina foram inseridas a
+    partir do HTML5 um exemplo seria usalar com a estrutura basica de uma pagina ai temos as tags <header>
+    <nav> <main> <aside> <footer>.  
+
+oque é o ID de uma tag?
+    R :é um atributo usado para definir uma identificaçao para uma tag e deve ser unica em um documento
+
+oque é a class de uma tag?
+    R :é um atributo usado para definir uma classe a qual pertence a tag com base no class é possivel
+    fazer referencia a um ou mais atributos para inserir estilização visual nas paginas com a folha de estilo
+    ou eventos e interação com o javascript
+
+tags de formatação sao iguais as formatações do css?
+
+oque sao tags obsoletas? porque elas se tornaram obsoletas?
+
+como ver um site sem css apenas o html dele?
+
+tem como criar novas tags?
+    R: não é possivel criar novas tags pois elas sao padronizadas pela W3c ou seja elas nao podem
+    ser criadas para que haja um padrao e nao vire uma bagunça
+
+quais as diferenças entre uma tag simples e uma tag complexa?
+
+existem tags que fazer funçoes similares?
+

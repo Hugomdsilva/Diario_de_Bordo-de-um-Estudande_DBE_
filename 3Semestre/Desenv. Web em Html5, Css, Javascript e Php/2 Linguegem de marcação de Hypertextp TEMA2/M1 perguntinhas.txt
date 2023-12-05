@@ -1,0 +1,33 @@
+porque o html tem separações como cabeça corpo ?
+	R:serve como separação a cabeça contendo as informações descritivas do site o corpo contendo o conteudo em si
+
+principais tags do html e porque sao as principais?
+	R:as principais sao DOCTYPE! HTML head e body elas sao as principais pois sao a estrutura obrigatoria em um arquivo html
+	nela separam-se partes do codigo como se fosse a anatomia do codigo onde entendendo essa anatomia é possivel se 
+	navegar com mais facilidade em um codigo html
+
+oque é o hytime?
+	R:O hytime é um padrao criado pela ISO para possibilitar que hyperdocumentos e hypermidia pudessem
+	ser descritos em função de sua estrutura e conteudo ou seja humanizalos e consequentemente utilizados por quaisquer
+	sistemas conformante
+
+oque é a linguagem sgml?
+	R:na verdade sgml nao é uma lingagem mas sim regras a serem seguidas para que se possa criar uma linguegem
+	de marcação o sgml (Standard Generalized Markup Language) foi criado pela ISO
+
+quem é a empresa que atualiza o html a dona dele?
+	R:No inicio era a IETF ate o ano de 1995 era ela que publicava especificações e atualizava o html porem
+	a partir do ano de 1996 essa responsabilidade é da W3c World Wide Web Consortium que nos dias atuais está atualizando
+	o HTML e publicando suas especificações atualmente fazendo a Versao 5.3
+
+o dtd padroniza o html em diferentes navegadores?
+	R:Sim o DTD define os atributos e requisitos de uma linguegem ou seja ele padroniza quaisquer uso de linguem
+	para que haja um padrao por exemplo o html tem seu DTD o xml tem um diferente 
+
+qual a diferença de um DTD para um doctype?
+	R:Um DTD nao é igual a um doctype no caso o DTD existe em diversas linguagens ou em suas variaçoes ele define
+	atributos e requisitos para essa linguem em questao já o DOCTYPE é propio do html ele serve para juntar as tags 
+	que podem ser usadas e as marcações que vao ser carregadas no site
+
+
+
