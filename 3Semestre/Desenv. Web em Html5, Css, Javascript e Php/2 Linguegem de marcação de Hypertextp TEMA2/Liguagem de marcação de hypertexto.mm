@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Liguagem de marcação de hypertexto" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1701700079368" STYLE="oval">
 <font SIZE="18"/>
-<hook NAME="MapStyle" zoom="0.455">
+<hook NAME="MapStyle" zoom="0.592">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" associatedTemplateLocation="template:/standard-1.6.mm" fit_to_viewport="false"/>
 
 <map_styles>
@@ -157,7 +157,7 @@
 <node TEXT="Modulo 02 tags HTML basicas" POSITION="top_or_left" ID="ID_33074032" CREATED="1701781955037" MODIFIED="1701781979494">
 <edge COLOR="#0000ff"/>
 <node TEXT="Conceitos chave" ID="ID_586202006" CREATED="1701783502270" MODIFIED="1701783506488">
-<node TEXT="Os atributos" FOLDED="true" ID="ID_401795386" CREATED="1701786505954" MODIFIED="1701786518093">
+<node TEXT="Os atributos" ID="ID_401795386" CREATED="1701786505954" MODIFIED="1701786518093">
 <node TEXT="servem para adicionar caracteristicas a um elemento.&#xa;É composto por um nome e por um valor&#xa; (no site do W3C contem a lista completa de atributos  e suas combinações)" ID="ID_1381258192" CREATED="1701786522515" MODIFIED="1701786816310"/>
 <node TEXT="ex: &lt;img src=&quot;imagem.jpg&quot; alt=&quot;minha imagem&quot; /&gt;" ID="ID_831007501" CREATED="1701786577947" MODIFIED="1701786613485">
 <node TEXT="nesse exemplo temos src e alt que sao atributos&#xa;e &quot;imagem.jpg&quot; e &quot;minha imagem&quot; que sao seus valores" ID="ID_175699188" CREATED="1701786614698" MODIFIED="1701786665861"/>
@@ -165,19 +165,58 @@
 <node TEXT="O atributo &quot;alt&quot; define um texto alternativo a ser exibido no navegador caso a imagem nao carregue" ID="ID_1342839183" CREATED="1701786731236" MODIFIED="1701786758541"/>
 </node>
 </node>
+<node TEXT="Tags" ID="ID_1815914661" CREATED="1701960557647" MODIFIED="1701960559535">
+<node TEXT="Tags textuais" ID="ID_1306316680" CREATED="1701960560815" MODIFIED="1701960565730">
+<node TEXT="&lt;p&gt;" ID="ID_1669821745" CREATED="1701961580190" MODIFIED="1701961641496">
+<node TEXT="&lt;br /&gt;" ID="ID_1681589962" CREATED="1701961597197" MODIFIED="1701961604712"/>
+<node TEXT="&lt;strong&gt;" ID="ID_894196521" CREATED="1701961647774" MODIFIED="1701961656472"/>
+<node TEXT="&lt;em&gt;" ID="ID_907182624" CREATED="1701961664510" MODIFIED="1701961667560"/>
+</node>
+<node TEXT="&lt;h1&gt;...&lt;h6&gt;" ID="ID_1725856585" CREATED="1701961608397" MODIFIED="1701961622135"/>
+<node TEXT="&lt;li&gt;" ID="ID_511199909" CREATED="1701961758726" MODIFIED="1701961761793"/>
+</node>
+<node TEXT="Tags semanticas" ID="ID_1330278159" CREATED="1701960567167" MODIFIED="1701960572674">
+<node TEXT="&lt;header&gt;" ID="ID_311342331" CREATED="1701961678053" MODIFIED="1701961683735"/>
+<node TEXT="&lt;section&gt;" ID="ID_1777097401" CREATED="1701961685062" MODIFIED="1701961688624"/>
+<node TEXT="&lt;article&gt;" ID="ID_132907137" CREATED="1701961692622" MODIFIED="1701961696096"/>
+<node TEXT="&lt;footer&gt;" ID="ID_604944687" CREATED="1701961697813" MODIFIED="1701961700808"/>
+<node TEXT="&lt;ul&gt;" ID="ID_926167350" CREATED="1701961705030" MODIFIED="1701961708968"/>
+<node TEXT="&lt;ol&gt;" ID="ID_1370421610" CREATED="1701961805846" MODIFIED="1701961809137"/>
+</node>
+</node>
 </node>
 <node TEXT="Informações inportantes" ID="ID_589141806" CREATED="1701783506919" MODIFIED="1701783512121">
 <node TEXT="Tags e suas funçoes" ID="ID_1526900403" CREATED="1701791022832" MODIFIED="1701791029323">
-<node TEXT="&lt;article&gt;" ID="ID_655800488" CREATED="1701791034104" MODIFIED="1701791046418"/>
-<node TEXT="&lt;section&gt;" ID="ID_1407905986" CREATED="1701791056432" MODIFIED="1701791058402"/>
-<node TEXT="&lt;h1&gt;...&lt;h6&gt;" ID="ID_1929090590" CREATED="1701791065232" MODIFIED="1701791074250"/>
-<node TEXT="&lt;p&gt;" ID="ID_661307173" CREATED="1701791074480" MODIFIED="1701791082778"/>
-<node TEXT="&lt;pre&gt;" ID="ID_1183983640" CREATED="1701791082976" MODIFIED="1701791083754"/>
-<node TEXT="&lt;div&gt;" ID="ID_587877735" CREATED="1701791084024" MODIFIED="1701791088170"/>
-<node TEXT="&lt;span&gt;" ID="ID_1058502286" CREATED="1701791088449" MODIFIED="1701791114371"/>
-<node TEXT="&lt;a&gt;" ID="ID_539916478" CREATED="1701791114657" MODIFIED="1701791129074"/>
-<node TEXT="&lt;br /&gt;" ID="ID_1207193878" CREATED="1701791129361" MODIFIED="1701791134995"/>
-<node TEXT="&lt;hr&gt;" ID="ID_532630429" CREATED="1701791135441" MODIFIED="1701791139714"/>
+<node TEXT="&lt;article&gt;" ID="ID_655800488" CREATED="1701791034104" MODIFIED="1701791046418">
+<node TEXT="adiciona um bloco de conteudo normalmente usado para artigos" ID="ID_709612351" CREATED="1701962007031" MODIFIED="1701962050426"/>
+</node>
+<node TEXT="&lt;section&gt;" ID="ID_1407905986" CREATED="1701791056432" MODIFIED="1701791058402">
+<node TEXT="usado para agrupar seções pode ter uma section para varios articles" ID="ID_1080108636" CREATED="1701962051872" MODIFIED="1701962087386"/>
+</node>
+<node TEXT="&lt;h1&gt;...&lt;h6&gt;" ID="ID_1929090590" CREATED="1701791065232" MODIFIED="1701791074250">
+<node TEXT="titulos em geral sendo 1 o maior e vai diminuindo sendo 6 o menor" ID="ID_354091153" CREATED="1701962089512" MODIFIED="1701962125003"/>
+</node>
+<node TEXT="&lt;p&gt;" ID="ID_661307173" CREATED="1701791074480" MODIFIED="1701791082778">
+<node TEXT="inserir paragrafos de texto" ID="ID_826340430" CREATED="1701962130320" MODIFIED="1701962136787"/>
+</node>
+<node TEXT="&lt;pre&gt;" ID="ID_1183983640" CREATED="1701791082976" MODIFIED="1701791083754">
+<node TEXT="inserir um texto pre-formatado" ID="ID_1321024354" CREATED="1701962143048" MODIFIED="1701962149235"/>
+</node>
+<node TEXT="&lt;div&gt;" ID="ID_587877735" CREATED="1701791084024" MODIFIED="1701791088170">
+<node TEXT="nao é semantica mas usa-se para agrupar algum tipo de conteudo que nao se encaixe dentro de uma tag semantica" ID="ID_998131723" CREATED="1701962153912" MODIFIED="1701962218235"/>
+</node>
+<node TEXT="&lt;span&gt;" ID="ID_1058502286" CREATED="1701791088449" MODIFIED="1701962380179">
+<node TEXT="É semelhante à &lt;div&gt;. Entretanto, enquanto a &lt;div&gt; é um elemento não semântico no bloco (quando usada, quebra o conteúdo em uma seção), a &lt;span&gt; é embutida (não quebra o conteúdo, apenas o agrupa)." ID="ID_776920317" CREATED="1701962376924" MODIFIED="1701962380178"/>
+</node>
+<node TEXT="&lt;a&gt;" ID="ID_539916478" CREATED="1701791114657" MODIFIED="1701791129074">
+<node TEXT="para inserir links" ID="ID_1487553273" CREATED="1701962384201" MODIFIED="1701962388419"/>
+</node>
+<node TEXT="&lt;br /&gt;" ID="ID_1207193878" CREATED="1701791129361" MODIFIED="1701791134995">
+<node TEXT="quebra de linha" ID="ID_1179791753" CREATED="1701962393386" MODIFIED="1701962396028"/>
+</node>
+<node TEXT="&lt;hr&gt;" ID="ID_532630429" CREATED="1701791135441" MODIFIED="1701791139714">
+<node TEXT="insere linha horizontal no documento" ID="ID_361627415" CREATED="1701962397003" MODIFIED="1701962411740"/>
+</node>
 </node>
 </node>
 <node TEXT="eventos relevantes nomes e datas significativas" ID="ID_90081892" CREATED="1701783513006" MODIFIED="1701783522168"/>
