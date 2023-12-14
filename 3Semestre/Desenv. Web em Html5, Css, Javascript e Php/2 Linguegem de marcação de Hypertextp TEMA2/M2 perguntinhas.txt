@@ -7,7 +7,7 @@ oque sao as funções estruturais, textuais e semanticas das tags?
     Tags Textuais :responsaveis por Organizar O Conteudo Da Pagina ou seja textos midias e links algums exemplos
     sao <p>, <h1> ... <h6>, <img> e <a>.
     Tags Semanticas : responsaveis por Organizar A Estrutura De Conteudo De Uma Pagina foram inseridas a
-    partir do HTML5 um exemplo seria usalar com a estrutura basica de uma pagina ai temos as tags <header>
+    partir do HTML5 um exemplo seria usar com a estrutura basica de uma pagina ai temos as tags <header>
     <nav> <main> <aside> <footer>.  
 
 oque é o ID de uma tag?
@@ -26,9 +26,10 @@ porque se ela se tornou obsoleta foi criada uma nova tag com a mesma função ou
 e também usar tags obsoletas colocam o  código em risco já que a qualquer momento o navegador pode remover o suporte aquela tag
 
 O que são listas em html?
-     R:listas são vários dados em um conjunto no HTML temos listas ordenadas não ordenadas e de descrição cada uma com sua característica
+     R:listas são vários dados em um conjunto, no HTML temos listas ordenadas não ordenadas e de descrição cada uma com sua característica
 
 como ver um site sem css apenas o html dele?
+    R:pode se fazer o uso de extensões para visualizar o código sem css ou javascript 
 
 tem como criar novas tags?
     R: não é possivel criar novas tags pois elas sao padronizadas pela W3c ou seja elas nao podem
