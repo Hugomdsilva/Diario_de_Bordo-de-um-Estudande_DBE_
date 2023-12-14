@@ -20,7 +20,13 @@ oque é a class de uma tag?
 
 tags de formatação sao iguais as formatações do css?
 
-oque sao tags obsoletas? porque elas se tornaram obsoletas?
+oque sao tags obsoletas? porque elas se tornaram obsoletas? 
+     R: a cada nova versão do html são criadas novas tags e as antigas descontínuadas que são chamadas de obsoletas. muitas vezes o navegador tem suporte a essas tags porém não é recomendado ultilizar.
+porque se ela se tornou obsoleta foi criada uma nova tag com a mesma função ou até melhor.
+e também usar tags obsoletas colocam o  código em risco já que a qualquer momento o navegador pode remover o suporte aquela tag
+
+O que são listas em html?
+     R:listas são vários dados em um conjunto no HTML temos listas ordenadas não ordenadas e de descrição cada uma com sua característica
 
 como ver um site sem css apenas o html dele?
 
