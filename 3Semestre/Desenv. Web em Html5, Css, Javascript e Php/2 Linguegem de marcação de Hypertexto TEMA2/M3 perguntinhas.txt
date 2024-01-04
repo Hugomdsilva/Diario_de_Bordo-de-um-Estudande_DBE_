@@ -1,0 +1,25 @@
+como que se usa as tags de listas e um exemplo de um codigo que usa
+essas tags? 
+	R: as tags de listas são usadas com uma tag pai e as tags filhas como
+se a tag pai identifica uma lista as tags filhas os itens dessa lista um exemplo seria:
+<ol> <li> item lista nao ordenada </li> </ol>
+<ul> <li> item lista ordenada </li> </ul>
+<dl><dt><dd> item lista definiçao</dd></dt></dl>
+
+como que se usa as tags de tabela e como é um exemplo de um codigo simples
+utilizando essas tags? 
+	R: uma tabela contem linhas e colunas para fazer um codigo de tabela em html um exemplo:
+        <table>
+        <thead>
+            <th>cabeçalho da tabela</th>
+            <th>cabeçalho 2</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>item coluna01</td>
+                <td>item coluna02</td>
+            </tr>
+        </tbody>
+    </table>
+
+
