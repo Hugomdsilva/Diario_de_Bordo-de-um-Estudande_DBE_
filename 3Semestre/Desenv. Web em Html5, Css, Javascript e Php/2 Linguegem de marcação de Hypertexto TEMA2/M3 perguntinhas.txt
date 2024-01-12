@@ -1,4 +1,4 @@
-como que se usa as tags de listas e um exemplo de um codigo que usa
+Como que se usa as tags de listas e um exemplo de um codigo que usa
 essas tags? 
 	R: as tags de listas são usadas com uma tag pai e as tags filhas como
 se a tag pai identifica uma lista as tags filhas os itens dessa lista um exemplo seria:
@@ -6,7 +6,7 @@ se a tag pai identifica uma lista as tags filhas os itens dessa lista um exemplo
 <ul> <li> item lista ordenada </li> </ul>
 <dl><dt><dd> item lista definiçao</dd></dt></dl>
 
-como que se usa as tags de tabela e como é um exemplo de um codigo simples
+Como que se usa as tags de tabela e como é um exemplo de um codigo simples
 utilizando essas tags? 
 	R: uma tabela contem linhas e colunas para fazer um codigo de tabela em html um exemplo:
         <table>

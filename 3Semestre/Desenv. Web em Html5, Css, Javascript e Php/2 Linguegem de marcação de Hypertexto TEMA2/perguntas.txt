@@ -1,0 +1,99 @@
+porque o html tem separações como cabeça corpo ?
+	R:serve como separação a cabeça contendo as informações descritivas do site o corpo contendo o conteudo em si
+
+principais tags do html e porque sao as principais?
+	R:as principais sao DOCTYPE! HTML head e body elas sao as principais pois sao a estrutura obrigatoria em um arquivo html
+	nela separam-se partes do codigo como se fosse a anatomia do codigo onde entendendo essa anatomia é possivel se 
+	navegar com mais facilidade em um codigo html
+
+oque é o hytime?
+	R:O hytime é um padrao criado pela ISO para possibilitar que hyperdocumentos e hypermidia pudessem
+	ser descritos em função de sua estrutura e conteudo ou seja humanizalos e consequentemente utilizados por quaisquer
+	sistemas conformante
+
+oque é a linguagem sgml?
+	R:na verdade sgml nao é uma lingagem mas sim regras a serem seguidas para que se possa criar uma linguegem
+	de marcação o sgml (Standard Generalized Markup Language) foi criado pela ISO
+
+quem é a empresa que atualiza o html a dona dele?
+	R:No inicio era a IETF ate o ano de 1995 era ela que publicava especificações e atualizava o html porem
+	a partir do ano de 1996 essa responsabilidade é da W3c World Wide Web Consortium que nos dias atuais está atualizando
+	o HTML e publicando suas especificações atualmente fazendo a Versao 5.3
+
+o dtd padroniza o html em diferentes navegadores?
+	R:Sim o DTD define os atributos e requisitos de uma linguegem ou seja ele padroniza quaisquer uso de linguem
+	para que haja um padrao por exemplo o html tem seu DTD o xml tem um diferente 
+
+qual a diferença de um DTD para um doctype?
+	R:Um DTD nao é igual a um doctype no caso o DTD existe em diversas linguagens ou em suas variaçoes ele define
+	atributos e requisitos para essa linguem em questao já o DOCTYPE é propio do html ele serve para juntar as tags 
+	que podem ser usadas e as marcações que vao ser carregadas no site
+
+
+porque tags ficam entre <>?
+    R :o sinal de maior e de menor <>  funcionam como indicação de uma tag similar as "" que indicam um texto em varias 
+    linguens de programação o <> indica as marcaçoes em um codigo HTML
+
+oque sao as funções estruturais, textuais e semanticas das tags?
+    R : tags extruturais sao obrigatorias a uma pagina sao elas as textuais e as semanticas
+    Tags Textuais :responsaveis por Organizar O Conteudo Da Pagina ou seja textos midias e links algums exemplos
+    sao <p>, <h1> ... <h6>, <img> e <a>.
+    Tags Semanticas : responsaveis por Organizar A Estrutura De Conteudo De Uma Pagina foram inseridas a
+    partir do HTML5 um exemplo seria usar com a estrutura basica de uma pagina ai temos as tags <header>
+    <nav> <main> <aside> <footer>.  
+
+oque é o ID de uma tag?
+    R :é um atributo usado para definir uma identificaçao para uma tag e deve ser unica em um documento
+
+oque é a class de uma tag?
+    R :é um atributo usado para definir uma classe a qual pertence a tag com base no class é possivel
+    fazer referencia a um ou mais atributos para inserir estilização visual nas paginas com a folha de estilo
+    ou eventos e interação com o javascript
+
+tags de formatação sao iguais as formatações do css?
+
+oque sao tags obsoletas? porque elas se tornaram obsoletas? 
+     R: a cada nova versão do html são criadas novas tags e as antigas descontínuadas que são chamadas de obsoletas. muitas vezes o navegador tem suporte a essas tags porém não é recomendado ultilizar.
+porque se ela se tornou obsoleta foi criada uma nova tag com a mesma função ou até melhor.
+e também usar tags obsoletas colocam o  código em risco já que a qualquer momento o navegador pode remover o suporte aquela tag
+
+O que são listas em html?
+     R:listas são vários dados em um conjunto, no HTML temos listas ordenadas não ordenadas e de descrição cada uma com sua característica
+
+como ver um site sem css apenas o html dele?
+    R:pode se fazer o uso de extensões para visualizar o código sem css ou javascript 
+
+tem como criar novas tags?
+    R: não é possivel criar novas tags pois elas sao padronizadas pela W3c ou seja elas nao podem
+    ser criadas para que haja um padrao e nao vire uma bagunça
+
+quais as diferenças entre uma tag simples e uma tag complexa?
+
+existem tags que fazer funçoes similares?
+
+Como que se usa as tags de listas e um exemplo de um codigo que usa
+essas tags? 
+	R: as tags de listas são usadas com uma tag pai e as tags filhas como
+se a tag pai identifica uma lista as tags filhas os itens dessa lista um exemplo seria:
+<ol> <li> item lista nao ordenada </li> </ol>
+<ul> <li> item lista ordenada </li> </ul>
+<dl><dt><dd> item lista definiçao</dd></dt></dl>
+
+Como que se usa as tags de tabela e como é um exemplo de um codigo simples
+utilizando essas tags? 
+	R: uma tabela contem linhas e colunas para fazer um codigo de tabela em html um exemplo:
+        <table>
+        <thead>
+            <th>cabeçalho da tabela</th>
+            <th>cabeçalho 2</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>item coluna01</td>
+                <td>item coluna02</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+
