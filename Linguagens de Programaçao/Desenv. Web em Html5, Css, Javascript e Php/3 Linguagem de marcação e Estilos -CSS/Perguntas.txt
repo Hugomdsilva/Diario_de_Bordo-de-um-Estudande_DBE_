@@ -1,0 +1,7 @@
+Oq são pseudoelementos? e qual a benefícios de usá-los? um bom código html tem pseudoelementos?
+
+Como eu uso os seletores do css da melhor maneira possível como um bom código usa os seletores?
+
+Como funciona a página de estilos e como usar ou não ela afeta o site?
+
+Como eu faço css um texto e uma seta do lado dele para exibir e depois esconder o texto?
